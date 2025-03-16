@@ -1,7 +1,7 @@
 {
     "env": "test",
-    "client_id": "grant@softwaredevisers.com",
-    "client_secret": "&SSDB&JKnin9823hsi82",
+    "client_id": "Redacted",
+    "client_secret": "Redacted",
     "base_url": "http://localhost:8350",
     "test_list": [
         "E:/Software_Development/RegionIQ-API/tests"
